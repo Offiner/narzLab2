@@ -1,39 +1,26 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Oto nasza wspólna historia"
+:Oto nasza wspólna historia"
 Baba nie miala maku poszła do sklepu i zobaczyła znajomą inna babe i mowi ..... .....
 Jadzia 1 : Witaj Hlenka
 Helenka 2 : A witam wita
-=======
+
 Jadzia 1: Ma pani mak ?
 Helenka 2: Pani Jadziu a co pani taka ciekawska
 Jadzia 1 : A bo bida w domu
 Helenka 2: a moj to ma Golfa
 (Jadzia się zdziwila i poszła )
->>>>>>> edycja_w_pliku
 
->>>>>>> debug
 
 Pat i kot,
 kot i Pat
 Pat i kot
- przyjaciele od lat.
-<<<<<<< HEAD
->>>>>>> origin/remove-newfile
-=======
-<<<<<<< HEAD
+przyjaciele od lat.
+
 Wlazł kotek na płotem i mruga.
 Ładna to piosenka nie długa.
 Kotek wypił mleczko.
 Kotek poszedł spać.
->>>>>>> remove-newfile
-=======
+
 Oto nasza wspolna historia
 i żyli długo i szczęśliwie
 
->>>>>>> origin/remove-newfile
 
-=======
->>>>>>> 1c04c822962b6cbc5a2399492133abf20abb10ea
->>>>>>> 7044aa78a9aa82d155c8585c12d17270c89ddf3f
