@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Oto nasza wspólna historia"
 Baba nie miala maku poszła do sklepu i zobaczyła znajomą inna babe i mowi ..... .....
 Jadzia 1 : Witaj Hlenka
@@ -8,3 +9,9 @@ Oto nasza wspolna historia
 i żyli długo i szczęśliwie
 
 >>>>>>> origin/remove-newfile
+=======
+Wlazł kotek na płotem i mruga.
+Ładna to piosenka nie długa.
+Kotek wypił mleczko.
+Kotek poszedł spać.
+>>>>>>> remove-newfile
