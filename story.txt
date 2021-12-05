@@ -4,10 +4,19 @@ Za górami za lasami
 Baba nie miala maku poszła do sklepu i zobaczyła znajomą inna babe i mowi ..... .....
 Jadzia 1 : Witaj Hlenka
 Helenka 2 : A witam witam
+<<<<<<< HEAD
 i żyli długo i szczęśliwie
 Oto nasza wspolna historia"
 
 
+=======
+Jadzia 1: Ma pani mak ?
+Helenka 2: Pani Jadziu a co pani taka ciekawska
+Jadzia 1 : A bo bida w domu
+Helenka 2: a moj to ma Golfa
+(Jadzia się zdziwila i poszła )
+Za górami za lasami
+>>>>>>> edycja_w_pliku2
 Wlazł kotek na płotem i mruga.
 Ładna to piosenka nie długa.
 Kotek wypił mleczko.
@@ -15,9 +24,16 @@ Kotek poszedł spać.
 Pat i kot,
 kot i Pat
 Pat i kot
+<<<<<<< HEAD
 przyjaciele od lat.
 Jadzia 1: Ma pani mak ?
 Helenka 2: Pani Jadziu a co pani taka ciekawska
 Jadzia 1 : A bo bida w domu
 Helenka 2: a moj to ma Golfa
 (Jadzia się zdziwila i poszła )
+=======
+przyjaciele od lat
+i żyli długo i szczęśliwie.
+
+
+>>>>>>> edycja_w_pliku2
