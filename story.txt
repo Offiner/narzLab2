@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 "Oto nasza wspólna historia
 Za górami za lasami
@@ -26,10 +27,18 @@ kot i Pat
 Pat i kot
 <<<<<<< HEAD
 przyjaciele od lat.
+=======
+:Oto nasza wspólna historia"
+Baba nie miala maku poszła do sklepu i zobaczyła znajomą inna babe i mowi ..... .....
+Jadzia 1 : Witaj Hlenka
+Helenka 2 : A witam wita
+
+>>>>>>> remove-file-2
 Jadzia 1: Ma pani mak ?
 Helenka 2: Pani Jadziu a co pani taka ciekawska
 Jadzia 1 : A bo bida w domu
 Helenka 2: a moj to ma Golfa
+<<<<<<< HEAD
 (Jadzia się zdziwila i poszła )
 =======
 przyjaciele od lat
@@ -37,3 +46,26 @@ i żyli długo i szczęśliwie.
 
 
 >>>>>>> edycja_w_pliku2
+=======
+<<<<<<< HEAD
+(Jadzia się zdziwila i poszła )
+=======
+(Jadzia się zdziwila i poszła )
+
+
+Pat i kot,
+kot i Pat
+Pat i kot
+przyjaciele od lat.
+
+Wlazł kotek na płotem i mruga.
+Ładna to piosenka nie długa.
+Kotek wypił mleczko.
+Kotek poszedł spać.
+
+Oto nasza wspolna historia
+i żyli długo i szczęśliwie
+
+
+>>>>>>> remove-file-2
+>>>>>>> 59ee02864c8abaebd07e72ec29a9877f3df3715a
