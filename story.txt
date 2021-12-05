@@ -10,8 +10,19 @@ i żyli długo i szczęśliwie
 
 >>>>>>> origin/remove-newfile
 =======
+<<<<<<< HEAD
 Wlazł kotek na płotem i mruga.
 Ładna to piosenka nie długa.
 Kotek wypił mleczko.
 Kotek poszedł spać.
 >>>>>>> remove-newfile
+=======
+"Oto nasza wspólna historia"
+Za górami za lasami
+>>>>>>> debug
+
+Pat i kot,
+kot i Pat
+Pat i kot
+ przyjaciele od lat.
+>>>>>>> 1c04c822962b6cbc5a2399492133abf20abb10ea
