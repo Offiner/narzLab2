@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Oto nasza wspólna historia"
 Baba nie miala maku poszła do sklepu i zobaczyła znajomą inna babe i mowi ..... .....
 Jadzia 1 : Witaj Hlenka
@@ -18,3 +19,10 @@ Pat i kot,
 kot i Pat
 Pat i kot
  przyjaciele od lat.
+=======
+Jadzia 1: Ma pani mak ?
+Helenka 2: Pani Jadziu a co pani taka ciekawska
+Jadzia 1 : A bo bida w domu
+Helenka 2: a moj to ma Golfa
+(Jadzia się zdziwila i poszła )
+>>>>>>> edycja_w_pliku
