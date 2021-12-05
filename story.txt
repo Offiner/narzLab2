@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Oto nasza wspólna historia"
 Baba nie miala maku poszła do sklepu i zobaczyła znajomą inna babe i mowi ..... .....
 Jadzia 1 : Witaj Hlenka
 Helenka 2 : A witam witam
+=======
+Oto nasza wspolna historia
+i żyli długo i szczęśliwie
+
+>>>>>>> origin/remove-newfile
